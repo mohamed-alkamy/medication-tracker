@@ -1,0 +1,12 @@
+#wrapper {
+    display: flex;
+}
+
+#newUser {
+    flex: 0 0 65%;
+}
+
+#returningUser {
+    margin-right: 30%;
+    flex: 1;
+}
